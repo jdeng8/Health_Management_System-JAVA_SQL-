@@ -1,5 +1,7 @@
-This health management system is used to record and monitor patients’ health condition
+This health management system is used to record and monitor patients’ health condition.
+
 How to run
+
 The application has a command line interface based on JAVA. Before running it, all the five java files need to be compiled:
 javac *.java
 
