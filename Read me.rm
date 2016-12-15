@@ -1,13 +1,5 @@
-1 Members 
-
-NAME			UNITY ID
-Mengying Wang		mwang22
-Ran Tan			rtan2
-Shuai Chen		schen35
-Jingjuan Deng		jdeng8
-
-
-2 How to run
+This health management system is used to record and monitor patients’ health condition
+How to run
 The application has a command line interface based on JAVA. Before running it, all the five java files need to be compiled:
 javac *.java
 
